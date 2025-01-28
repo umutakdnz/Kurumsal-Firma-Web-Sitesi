@@ -1,4 +1,4 @@
-# Kurumsal-Firma-Web-Sitesi
+# Kurumsal Firma Web Sitesi
 
 Bu proje, kullanıcıların firma hakkında bilgi edinmesi, firmanın faaliyet gösterdiği alanları öğrenmesi ve iletişime geçmesi amacıyla kurumsal bir web sitesi oluşturmayı hedeflemektedir. Web sitesi; Hakkımızda, Müşteriler, Ürünler ve İletişim gibi bölümleri içermektedir. Kullanıcı dostu bir arayüz ve etkileyici bir tasarım ile ziyaretçilerin firma hakkında kolayca bilgi edinebilmesi sağlanmıştır.
 
